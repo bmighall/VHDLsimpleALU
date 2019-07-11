@@ -1,5 +1,4 @@
-VHDL Switch-Based ALU System (with Binary LED Output) (Artix-7 family Nexys 4 FPGA)
-
+# VHDL Switch-Based ALU System (with Binary LED Output) (Artix-7 family Nexys 4 FPGA)
 Creator: Ben Mighall
 
 All of this VHDL code was written for an Artix-7 family Nexys 4 FPGA board. Constraints file is included in this repository.
